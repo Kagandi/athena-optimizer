@@ -12,3 +12,10 @@ wheels/
 # Tooling caches
 .ruff_cache/
 .pytest_cache/
+
+# OS files
+.DS_Store
+
+# Generated reports/output
+*.json
+*.html
